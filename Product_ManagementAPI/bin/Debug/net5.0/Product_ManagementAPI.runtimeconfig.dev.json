@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\nitin.shinde\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\nitin.shinde\\.nuget\\packages"
+    ]
+  }
+}
