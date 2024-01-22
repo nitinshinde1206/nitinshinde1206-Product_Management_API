@@ -3280,19 +3280,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nitin.shinde\\.nuget\\packages\\": {}
+    "C:\\Users\\nitinshi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SRAi CINDE\\Dummy Application\\Product_ManagementAPI\\Product_ManagementAPI\\Product_ManagementAPI.csproj",
+      "projectUniqueName": "C:\\Users\\nitinshi\\Desktop\\ProductApp\\nitinshinde1206-Product_Management_API\\Product_ManagementAPI\\Product_ManagementAPI.csproj",
       "projectName": "Product_ManagementAPI",
-      "projectPath": "D:\\SRAi CINDE\\Dummy Application\\Product_ManagementAPI\\Product_ManagementAPI\\Product_ManagementAPI.csproj",
-      "packagesPath": "C:\\Users\\nitin.shinde\\.nuget\\packages\\",
-      "outputPath": "D:\\SRAi CINDE\\Dummy Application\\Product_ManagementAPI\\Product_ManagementAPI\\obj\\",
+      "projectPath": "C:\\Users\\nitinshi\\Desktop\\ProductApp\\nitinshinde1206-Product_Management_API\\Product_ManagementAPI\\Product_ManagementAPI.csproj",
+      "packagesPath": "C:\\Users\\nitinshi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nitinshi\\Desktop\\ProductApp\\nitinshinde1206-Product_Management_API\\Product_ManagementAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nitin.shinde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nitinshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3369,7 +3369,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
       }
     }
   }
